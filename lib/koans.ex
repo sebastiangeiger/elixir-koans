@@ -13,6 +13,7 @@ defmodule Koans do
     "about_asserts.exs",
     "about_numbers_and_booleans.exs",
     "about_strings.exs",
+    "about_regular_expressions.exs",
     "about_lists.exs",
     "about_enums.exs",
     "about_tuples.exs",
@@ -20,7 +21,6 @@ defmodule Koans do
     "about_anonymous_functions.exs",
     "about_named_functions.exs",
     "about_match_variables.exs",
-    "about_regular_expressions.exs",
   ]
 
 
