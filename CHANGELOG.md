@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+### Changed
+- Various rewording, additional examples, and general housekeeping throughout remaining lessons (https://github.com/iamvery/elixir-koans/pull/17)
+
 ## [v1]
 
 ### Fixed
