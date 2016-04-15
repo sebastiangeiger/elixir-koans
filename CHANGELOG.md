@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+### Added
+- Lesson about processes (https://github.com/iamvery/elixir-koans/pull/16)
+
 ## [v1]
 
 ### Fixed
