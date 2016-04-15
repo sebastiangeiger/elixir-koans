@@ -33,4 +33,10 @@ defmodule AboutRegularExpressions do
     text = "The lazy bear slept for 5 months"
     assert Regex.run(regex, text) == __?
   end
+
+  think "Replacing with capture groups" do
+    text = "This has vowels"
+    regex = ~r{([aeiou])}
+    assert Regex.replace(regex, text, "<\\1>") == __?
+  end
 end
